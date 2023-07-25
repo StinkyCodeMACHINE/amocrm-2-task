@@ -167,7 +167,7 @@ span {
 h2 span::after {
   left: 0%;
   top: 92%;
-  max-width: 38.4375rem;
+  width: 38.4375rem;
   height: 0.74538rem;
   background-image: url("/assets/underline.svg");
 }
