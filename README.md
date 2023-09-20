@@ -1,6 +1,6 @@
-Страница геймерского сайта для настоящих геймеров.
+# Страница геймерского сайта для настоящих геймеров.
 
-## Table of contents
+## Содержимое
 
 - [Обзор](#обзор)
   - [Скриншот](#скриншот)
@@ -16,7 +16,7 @@
 
 ### Ссылки
 
-- Live Site URL: [https://glowing-narwhal-2ed236.netlify.app/](https://glowing-narwhal-2ed236.netlify.app/)
+- Хостинг: [https://glowing-narwhal-2ed236.netlify.app/](https://glowing-narwhal-2ed236.netlify.app/)
 
 ## Что и как?
 
